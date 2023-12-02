@@ -1,4 +1,4 @@
-@main def day1: Unit =
+def day1: Unit =
   // val inputLines = io.Source.fromFile("src/main/scala/day1/example.txt").getLines.toList
   val inputLines = io.Source.fromFile("src/main/scala/day1/day1.txt").getLines.toList
   // puzzle1(inputLines)
